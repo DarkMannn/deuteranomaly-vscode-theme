@@ -2,7 +2,7 @@
 
 # Deuteranomaly Theme
 
-Theme made with colors that people with deuteranomaly vision can fully see and experience
+Theme made with colors that people with deuteranomaly vision can fully see and experience.
 
 ![deuteranomaly](https://drive.google.com/uc?export=view&id=1CeNN-SB6oHTR0rxZoIsrUeZ_9dDKjqSK)
 
