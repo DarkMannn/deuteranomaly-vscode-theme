@@ -1,0 +1,48 @@
+{
+  "name": "deuteranomaly-theme",
+  "displayName": "Deuteranomaly Theme",
+  "description": "Theme made with colors that people with deuteranomaly vision can fully see and experience",
+  "version": "0.0.1",
+  "publisher": "DarkMannn",
+  "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "deuteranomaly",
+    "azure",
+    "orange",
+    "blue",
+    "brown",
+    "accessible",
+    "clean",
+    "minimal",
+    "calming",
+    "calm",
+    "relaxing",
+    "relax",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deuteranomaly Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deuteranomaly Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/DarkMannn/deuteranomaly-vscode-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMannn/deuteranomaly-vscode-theme/issues"
+  },
+  "license": "MIT"
+}
