@@ -1896,7 +1896,7 @@
     "badge.background": "#e89f43",
     "badge.foreground": "#fdfdfd",
     "terminal.foreground": "#fdfdfd",
-    "terminal.selectionBackground": "#46362d44",
+    "terminal.selectionBackground": "#46362d",
     "terminalCursor.background": "#46362d",
     "terminalCursor.foreground": "#c2c2c2",
     "terminal.border": "#2f88dc",
