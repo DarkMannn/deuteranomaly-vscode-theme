@@ -1829,7 +1829,7 @@
     "editor.selectionBackground": "#111111",
     "editor.inactiveSelectionBackground": "#222222",
     "editorWhitespace.foreground": "#9f9f9f7c",
-    "editor.selectionHighlightBackground": "#7d7d7d",
+    "editor.selectionHighlightBackground": "#7d7d7d7d",
     "editor.selectionHighlightBorder": "#721ce800",
     "editor.findMatchBackground": "#111111",
     "editor.findMatchBorder": "#ffffff00",
