@@ -4,9 +4,9 @@
 
 Theme made with colors that people with deuteranomaly vision can fully see and experience.
 
-![deuteranomaly](https://drive.google.com/uc?export=view&id=1CeNN-SB6oHTR0rxZoIsrUeZ_9dDKjqSK)
+![deuteranomaly](https://imgur.com/zWh4Ny1.png)
 
-![theme preview](https://drive.google.com/uc?export=view&id=1Qb31PeoFycLd83Un7oDktk90ES7UKsXR)
+![theme preview](https://i.imgur.com/w9B1bNT.png)
 
 </div>
 
